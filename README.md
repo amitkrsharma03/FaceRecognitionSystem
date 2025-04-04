@@ -41,7 +41,6 @@ Welcome to the ultimate **Face Recognition System** for colleges and schools –
 
 ## 🚀 Deployment
 
-Paste your live deployment link here 👇
 
 **🔗 [Live Demo](https://radiant-blini-4d4dab.netlify.app/)**
 
