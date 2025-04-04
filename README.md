@@ -42,7 +42,7 @@ Welcome to the ultimate **Face Recognition System** for colleges and schools –
 ## 🚀 Deployment
 
 
-**🔗 [Live Demo](https://radiant-blini-4d4dab.netlify.app/)**
+**🔗 [Live Demo](https://funny-fenglisu-c85078.netlify.app/)**
 
 > Want to test it? Use student photos and try scanning in real time. Zero hassle, full accuracy.
 
