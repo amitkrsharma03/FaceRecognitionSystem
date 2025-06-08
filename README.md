@@ -24,7 +24,7 @@ Welcome to the ultimate **Face Recognition System** for colleges and schools –
 | 🧠 Backend      | **Python**, Flask/FastAPI (API integration & processing)               |
 | 📷 Face Recognition | **FaceIO (fio.js)**, Kairos API, OpenCV (alternate module tested)       |
 | 🧬 AI & ML      | **Deep Learning**, Face Embeddings, Feature Extraction                 |
-| ☁️ Cloud & Infra | Google Colab (initial model training), Firebase/Supabase (if used)     |
+| ☁️ Cloud & Infra | Google Colab (initial model training)     |
 | 🔄 Realtime Ops | Bolt.New for notifications, async feedback & logging                    |
 
 ---
@@ -44,7 +44,7 @@ Welcome to the ultimate **Face Recognition System** for colleges and schools –
 
 **🔗 [Live Demo](https://funny-fenglisu-c85078.netlify.app/)**
 
-> Want to test it? Use student photos and try scanning in real time. Zero hassle, full accuracy.
+> Want to test it? Use student photos and try scanning in real time. Zero hassle, high accuracy.
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the ultimate **Face Recognition System** for colleges and schools –
 
 ## 🧑‍🏫 Built For
 
-> 💼 Final-year projects, internships, or startup MVPs – This is an academic beast.
+> 💼 Final-year projects, internships or portfolio project.
 
 ---
 
