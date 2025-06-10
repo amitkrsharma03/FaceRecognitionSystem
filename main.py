@@ -28,7 +28,7 @@
 # ###################################################################################
 
 # def contact():
-#     mess._show(title='Contact us', message="Please contact us on : 'shubhamkumar8180323@gmail.com' ")
+#     mess._show(title='Contact us', message="Please contact us on : 'amitsharma54864@gmail.com' ")
 
 # ###################################################################################
 
@@ -502,7 +502,7 @@ def tick():
     clock.after(200, tick)
 
 def contact():
-    mess._show(title='Contact us', message="Please contact us on : 'shubhamkumar8180323@gmail.com' ")
+    mess._show(title='Contact us', message="Please contact us on : 'amitsharma54863@gmail.com' ")
 
 def check_haarcascadefile():
     exists = os.path.isfile("haarcascade_frontalface_default.xml")
